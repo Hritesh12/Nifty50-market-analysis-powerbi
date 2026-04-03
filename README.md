@@ -1,6 +1,6 @@
 📊 Nifty 50 Market Analysis Dashboard (Power BI)
 
-This project is a Power BI dashboard built to analyze Nifty 50 market trends from April 2025 to March 2026.
+This project analyzes Nifty 50 market performance (2025–2026) using Power BI. It focuses on identifying trends, monthly returns, and volatility through interactive dashboards.
 
 ## 🔍 What I did
 
@@ -17,12 +17,14 @@ This project is a Power BI dashboard built to analyze Nifty 50 market trends fro
 * Identified months with positive and negative returns
 * Observed overall market trend using price movement
 * Compared performance using KPIs like best and worst return
+* The market showed increased negative returns towards early 2026, indicating a potential downturn phase
 
 ## 🛠 Tools Used
 
 * Power BI
 * Excel (for data preprocessing)
 * DAX (for calculations)
+* SQL (for initial data preparation)
 
 ## 📊 Dashboard Preview
 
